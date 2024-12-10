@@ -1,0 +1,76 @@
+# Russian translations for com.github.lainsce.palaura package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.lainsce.icon-previewer package.
+# Translated by Sergei Kharitonov <sergejharitonov001@gmail.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.lainsce.icon-previewer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-16 00:31-0300\n"
+"PO-Revision-Date: 2021-01-16 00:37-0300\n"
+"Last-Translator: Sergei Kharitonov <sergejharitonov001@gmail.com>\n"
+"Language-Team: Russian <sergejharitonov001@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: GPT-4o\n"
+
+
+#: src/Application.vala:98 src/MainWindow.vala:157 src/MainWindow.vala:317
+msgid "Icon Previewer"
+msgstr "Предпросмотр значка"
+
+#: src/MainWindow.vala:148
+msgid "This file is not a template"
+msgstr "Этот файл не является шаблоном"
+
+#: src/MainWindow.vala:149
+msgid ""
+"Please start from a template to ensure that your file will work as an "
+"elementary OS icon"
+msgstr ""
+"Пожалуйста, начните с шаблона, чтобы убедиться, что ваш файл будет работать как значок для elementary OS"
+
+#: src/MainWindow.vala:187
+msgid "Select Icon"
+msgstr "Выбрать значок"
+
+#: src/MainWindow.vala:187
+msgid "_Open"
+msgstr "_Открыть"
+
+#: src/MainWindow.vala:189
+msgid "Cancel"
+msgstr "Отменить"
+
+#: src/MainWindow.vala:192
+msgid "Icons"
+msgstr "Значки"
+
+#: src/MainWindow.vala:234 src/MainWindow.vala:240 src/MainWindow.vala:246
+#: src/MainWindow.vala:252
+msgid "Save Regular"
+msgstr "Сохранить как обычный"
+
+#: src/MainWindow.vala:258
+msgid "Save Symbolic"
+msgstr "Сохранить как символику"
+
+#: src/MainWindow.vala:264
+msgid "_Save"
+msgstr "_Сохранить"
+
+#: src/MainWindow.vala:271
+msgid "Icon"
+msgstr "Значок"
+
+#: src/MainWindow.vala:277
+msgid "SVG"
+msgstr "SVG"
+
+#: src/MainWindow.vala:287
+msgid "Failed to save exported file"
+msgstr "Не удалось сохранить экспортированный файл"
